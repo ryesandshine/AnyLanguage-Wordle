@@ -146,7 +146,7 @@ export const WORDS = [
 'bagal',
 'hinto',
 'petsa',
-'Kanin',
+'kanin',
 'bibig',
 'likas',
 'hasik',

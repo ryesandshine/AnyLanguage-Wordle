@@ -146,7 +146,7 @@ export const VALIDGUESSES = [
 'bagal',
 'hinto',
 'petsa',
-'Kanin',
+'kanin',
 'bibig',
 'likas',
 'hasik',

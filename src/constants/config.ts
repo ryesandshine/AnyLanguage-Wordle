@@ -14,6 +14,6 @@ export const CONFIG = {
   normalization: 'NFC', // whether to apply Unicode normalization to words and orthography - options: 'NFC', 'NFD', 'NKFC', 'NKFD', false
   startDate: 'July 01, 2024 00:00:00', // what date and time to start your game from
   defaultLang: 'en', // the default interface language
-  availableLangs: 'en', // the options available to the user for translation languages
+  availableLangs: '', // the options available to the user for translation languages
   escapeSpecialCharacters: true, // whether to escape all characters in the orthography.
 }
